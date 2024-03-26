@@ -27,3 +27,6 @@ For getting TOTP code for this service do `mytotp.sh SERVID`, unlock your GPG ke
 
 I wrote this script for my own usage, trying to keep a balance between simplicity and usability. So anyone can try to use it, or modify for it's own needs.
 
+## Afterfork
+
+* https://habr.com/ru/articles/802953/
